@@ -1,8 +1,9 @@
 {
   "latestVersion": "1.1.0",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateUrl": "https://yourdomain.com/your-latest-apk.apk"
 }
+
 
 
 
